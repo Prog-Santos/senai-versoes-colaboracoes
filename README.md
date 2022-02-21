@@ -1,3 +1,6 @@
 # senai-versoes-colaboracoes 
 
-ReadMe de exemplo
+Readme de exemplo;
+
+Repositório criado para fins de estudo;
+
